@@ -1,3 +1,6 @@
 MNIST/*
 MNIST
 *.ckpt
+*.npz
+*.pth
+Course_2_Build_Better_GANS/Week_1/inception_v3_google-1a9a5a14.pth
